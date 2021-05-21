@@ -4,7 +4,7 @@ This is a small project whcih is written in c++.
 
 Movie booking system in C++ is a small software where you can book tickets.
 
-Also i have used file handeling to for the operations that have been performe in this appliction.
+Also i have used file handeling to for the operations that have been performed in this appliction.
 
 This system is based on the concept to generate the movie records and to add and update it.
 
