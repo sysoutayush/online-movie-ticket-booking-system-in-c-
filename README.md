@@ -1,6 +1,6 @@
 # online-movie-ticket-booking-system-in-c++
   
-This is a small project whcih is written in c++.
+This is a small project which is written in c++.
 
 Movie booking system in C++ is a small software where you can book tickets.
 
